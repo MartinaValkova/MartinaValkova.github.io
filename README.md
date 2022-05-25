@@ -11,5 +11,7 @@ Semester 2201
 Other websites as reference:
 
 https://libguides.nus.edu.sg/c.php?g=145528&p=956265
+
 https://www.intechnic.com/blog/top-ten-favorit-musician-websites-with-stunning-visual-appeal/
+
 https://www.crazyegg.com/blog/example-musician-websites/
