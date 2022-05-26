@@ -19,3 +19,5 @@ https://libguides.nus.edu.sg/c.php?g=145528&p=956265
 https://www.intechnic.com/blog/top-ten-favorit-musician-websites-with-stunning-visual-appeal/
 
 https://www.crazyegg.com/blog/example-musician-websites/
+
+https://gist.github.com/MartinaValkova/9c2c0873a91d26473008c7025f812b3e
