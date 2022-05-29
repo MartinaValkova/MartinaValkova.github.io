@@ -845,7 +845,6 @@ html {
 
   .cards-wrapper {
     flex-direction: column;
-    align-items:center;
     margin-top: 4rem;
   }
 
