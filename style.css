@@ -838,7 +838,7 @@ html {
   }
 }
 
-@media (max-width: 1300px) {
+@media (max-width: 600px) {
   .CDs {
     padding-bottom: 5rem;
   }
