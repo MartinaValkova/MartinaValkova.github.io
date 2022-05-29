@@ -846,6 +846,7 @@ html {
   .cards-wrapper {
     flex-direction: column;
     margin-top: 4rem;
+    margin-left: auto;
   }
 
   .card {
